@@ -5,6 +5,8 @@ The semster project in Dat255
 
 Open the notebooks in Colab or prefered gpu-powered instance.
 
+Make sure to run Data_prep first, as this creates the reduced dataset. You can choose an apropriate amount for testing the code, by changing the varibles at the start of the notebook.
+
 Alternativly look at the notebooks with displayed outputs at these links:
 
 ## Table of contents
