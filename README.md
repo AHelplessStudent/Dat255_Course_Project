@@ -9,7 +9,6 @@ Make sure to run Data_prep first, as this creates the reduced dataset. You can c
 
 Alternativly look at the notebooks with displayed outputs at these links:
 
-## Table of contents
 
 | Notebook    |      1-Click Notebook      |
 |:----------|------|
